@@ -1,3 +1,3 @@
 test 
 
-###Rensselaer Polytechnic Institute
+### Rensselaer Polytechnic Institute
