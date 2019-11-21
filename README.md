@@ -8,3 +8,11 @@ test
 <p3> Informational Techonology </p3>
 <p> <i> Informational Techonology </i> is the study of programming, databases, and other computer concepts and applications. You can choose the subfields when
 you get into the field. </p>
+
+<p4> Admission Requirment: </p4>
+<ul> 
+    <li> A 1500 or higher on your SAT </li> 
+    <li> A 32 or higher on your ACT. </li>
+    <li> A 3.87 or higher GPA. </li> 
+    <li> An engaging application essay that conveys why specifically you're interested in the major you've chosen.</li>
+</ul>
